@@ -139,7 +139,6 @@ const Navbar = ({ currentUser }) => {
         <NavLogo to="/">
           <Logo src={LogoImg} />
           Fitnation 
-          
         </NavLogo>
 
         <MobileMenu isOpen={isOpen}>
